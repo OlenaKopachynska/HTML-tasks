@@ -8,7 +8,7 @@
 .orange-box {
     width: 100%;
     height: 10%;
-    background-color: orange;
+    background-color: rgb(255, 153, 0);
     
 }
 
@@ -42,5 +42,5 @@
     background-color: blue;
 }
 .black-box {
-    background-color: grey;;
+    background-color: grey;
 }
